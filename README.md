@@ -20,7 +20,7 @@ I like building software in **Go**, **Ruby** and **C**. Have fun with network pr
 
 I'm currently working in the field of blockchain. Dealing with a go-ethereum fork, log analyzing and monitoring of an EVM-compatible node, data processing pipelines and **Kafka**.
 
-Fields which I like to try if I would have enought time :sweat_smile:
+Fields which I like to try if I would have enough time :sweat_smile:
 
 * Elixir
 * Rust
